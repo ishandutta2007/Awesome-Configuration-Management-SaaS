@@ -56,7 +56,7 @@ Below is the curated list of major **Configuration Management SaaS platforms**, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Configuration management boasts one of the most vibrant open-source ecosystems in software engineering. The projects below power mission-critical operations globally and are sorted by **GitHub Star Count** (descending):
+Configuration management boasts one of the most vibrant open-source ecosystems in software engineering. The projects below power mission-critical operations globally and are sorted by **GitHub Stars_Count** (descending):
 
 1. 🥇 **[Ansible](https://github.com/ansible/ansible)** [![Stars](https://img.shields.io/github/stars/ansible/ansible?style=social)](https://github.com/ansible/ansible/stargazers)  
    *Radically simple, agentless IT automation, configuration management, application deployment, and orchestration engine using YAML playbooks over SSH/WinRM.*
